@@ -1,14 +1,11 @@
 [autotune_tmc stepper_x]
-motor: 
+motor: ldo-42sth40-1004a
 
 [autotune_tmc stepper_y]
-motor: 
+motor: ldo-42sth40-1004a
 
 [autotune_tmc stepper_z]
-motor: 
-
-[autotune_tmc stepper_z1]
-motor: 
+motor: ldo-42sth34-1004l321e
 
 [autotune_tmc extruder]
-motor: 
+motor: ldo-42sth40-1004a
