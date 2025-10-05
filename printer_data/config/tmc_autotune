@@ -1,0 +1,14 @@
+[autotune_tmc stepper_x]
+motor: 
+
+[autotune_tmc stepper_y]
+motor: 
+
+[autotune_tmc stepper_z]
+motor: 
+
+[autotune_tmc stepper_z1]
+motor: 
+
+[autotune_tmc extruder]
+motor: 
